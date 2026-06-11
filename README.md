@@ -100,6 +100,6 @@ devradar/
 4. **Almacenamiento** — SQLite con relaciones jobs ↔ technologies
 5. **Visualización** — API REST + dashboard React con gráficas Recharts
 
-## Licencia
+## Autor
 
-MIT
+Nicolás Mazzilli — [GitHub](https://github.com/NickBullicik)
