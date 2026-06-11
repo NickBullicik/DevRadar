@@ -38,7 +38,7 @@ Dashboard interactivo que analiza el mercado laboral tech en España, mostrando 
 ### Instalación
 
 ```bash
-git clone https://github.com/TUUSER/devradar.git
+git clone https://github.com/NickBullicik/devradar.git
 cd devradar
 
 # Instalar dependencias del servidor
